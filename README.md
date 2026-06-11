@@ -1,6 +1,6 @@
 # AI Engineer Journey
 
-Hi, I'm Nafiur Rahman.
+Hi, I'm Md. Nafiur Rahman.
 
 I'm a Class 11 Science student from Bangladesh and I'm learning AI Engineering from scratch.
 
@@ -13,9 +13,8 @@ I'm a Class 11 Science student from Bangladesh and I'm learning AI Engineering f
 - Matplotlib ✅
 - Exploratory Data Analysis ✅
 
-## Currently Learning
+## Currently Learning Math For AI
 
-- Statistics
 - Linear Algebra
 
 ## Future Goals
@@ -26,11 +25,12 @@ I'm a Class 11 Science student from Bangladesh and I'm learning AI Engineering f
 - PyTorch
 - LLMs
 
+
 ## Projects
 
 | Project | Status |
 |----------|----------|
 | Supermarket Sales EDA | Completed |
-| Titanic EDA | Planned |
-| Netflix Analysis | Planned |
+| LinkedIN JOb Data Data Cleaning & EDA | Completed |
+| Dirty Cafe | Complete |
 | Statistics for AI | In Progress |
