@@ -31,6 +31,5 @@ I'm a Class 11 Science student from Bangladesh and I'm learning AI Engineering f
 | Project | Status |
 |----------|----------|
 | Supermarket Sales EDA | Completed |
-| LinkedIN JOb Data Data Cleaning & EDA | Completed |
-| Dirty Cafe | Complete |
-| Statistics for AI | In Progress |
+| LinkedIN Job Data Data Cleaning & EDA | Completed |
+| Dirty Cafe Sale Data Data Cleaning & EDA | Complete |
